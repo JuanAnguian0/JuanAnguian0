@@ -1,7 +1,7 @@
 Hi 👋 My name is Juan Anguiano
 ==============================
 
-Nucamp Student and Tec Recruiter
+Nucamp Student Learning to become a Jr.Devops
 ------------------------------
 
 * 🌍  I'm based in Austin, TX
